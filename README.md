@@ -3,7 +3,7 @@ Below is a full GitHub-ready README.md containing:
 •	Solution summary
 •	Detailed architecture (with diagrams)
 •	Setup instructions (GCP, services, code, environment)
-•	Screenshots/diagram placeholders you can replace later
+•	Screenshots/diagram 
 •	Step-by-step deployment workflow
 •	Agent + sub-agent definitions
 •	API endpoints
